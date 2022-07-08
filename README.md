@@ -69,4 +69,5 @@
 - [ ] [Cloud Native Go by Matthew Titmus](https://www.amazon.com/Cloud-Native-Go-Unreliable-Environments/dp/1492076333/)
 - [ ] [Powerful Command-Line Applications in Go by Ricardo Gerardi](https://www.amazon.com/Powerful-Command-Line-Applications-Go-Maintainable/dp/168050696X/)
 - [ ] [Distributed Services with Go by Travis Jeffery](https://www.amazon.com/Distributed-Services-Go-Reliable-Maintainable/dp/1680507605/)
+- [ ] [Microservices Patterns by Chris Richardson](https://www.amazon.com/Microservices-Patterns-examples-Chris-Richardson/dp/1617294543/)
 - [ ] [Building Microservices by Sam Newman](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029/)
