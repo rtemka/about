@@ -50,7 +50,7 @@
 
 - **[Телеграм-бот](https://github.com/rtemka/torgi-contracts-bot)** (стэк: REST API net/http+gorila/mux; БД postgres; работа с сообщениями с помощью flag; горутины) 
 - **[Программа-демон](https://github.com/rtemka/torgi-excel)**(сделано на **rust**), которая следит за изменениями excel-файла, определяет, что в нем изменилось и отсылает изменения на API телеграм-бота.
-- **[Утилита для шифрования](https://github.com/rtemka/caesarcypher)** шифром Цезаря. Работает как **[утилита командной строки](https://github.com/rtemka/caesar-cypher-tool)**, а также как **[RESTful ceрвис](https://github.com/rtemka/caesarservice)**
+- **[Утилита для шифрования](https://github.com/rtemka/cypherservice)** шифром Цезаря. Работает как **[утилита командной строки](https://github.com/rtemka/caesar-cypher-tool)**, а также как **[RESTful ceрвис](https://github.com/rtemka/caesarservice)**
 - **[Пайплайн](https://github.com/rtemka/go10-26a.3)** на **golang**
 - **[Новостной агрегатор](https://github.com/rtemka/news)** (стэк: **_REST API net/http+gorila/mux_**; **_gRPC API_ + _protobuf_**; БД **postgres+mongodb**; сериализация/десериализация **_xml/json_**; многопоточный опрос rss-каналов(**Fan In/Fan Out**))
 
