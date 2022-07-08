@@ -65,7 +65,7 @@
 - [x] [Основы технологий баз данных](https://postgrespro.ru/education/books/dbtech)
 - [x] [A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/)
 - [x] [Linux Command Line and Shell Scripting Bible](https://www.amazon.com/Linux-Command-Shell-Scripting-Bible/dp/1119700914/)
-- [ ] [Network Programming with Go by Adam Woodbeck](https://www.amazon.com/Network-Programming-Go-Adam-Woodbeck/dp/1718500882/)
+- [x] [Network Programming with Go by Adam Woodbeck](https://www.amazon.com/Network-Programming-Go-Adam-Woodbeck/dp/1718500882/)
 - [ ] [Cloud Native Go by Matthew Titmus](https://www.amazon.com/Cloud-Native-Go-Unreliable-Environments/dp/1492076333/)
 - [ ] [Powerful Command-Line Applications in Go by Ricardo Gerardi](https://www.amazon.com/Powerful-Command-Line-Applications-Go-Maintainable/dp/168050696X/)
 - [ ] [Distributed Services with Go by Travis Jeffery](https://www.amazon.com/Distributed-Services-Go-Reliable-Maintainable/dp/1680507605/)
