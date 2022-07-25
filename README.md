@@ -27,9 +27,9 @@
 - ✅ **NoSQL** | **redis**
 - ➖ **NoSQL** | **GraphQL**
 - ✅ сетевой стэк, tcp/udp, http/https
-- ✅ **REST** через стандартный **net/http** + **gorila/mux**
+- ✅ **REST** через стандартный **net/http** + **gorilla/mux**
 - ✅ **gRPC** **grpc-go** + **protobuf**
-- ✅ **WebSocket** **gorila/websocket**
+- ✅ **WebSocket** **gorilla/websocket**
 - ➖ веб-фреймворки gin/fiber/echo
 - ✅ **go tool pprof/trace**
 - 🔶 **RabbitMQ**
